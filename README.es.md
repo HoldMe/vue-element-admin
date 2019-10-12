@@ -188,20 +188,6 @@ Vaya a [Documentación](https://panjiachen.github.io/vue-element-admin-site/guid
 
 Los cambios detallados por cada liberación se encuentran en [notas de liberación](https://github.com/PanJiaChen/vue-element-admin/releases).
 
-## Demostración en línea
-
-[Vista Prévia de la Aplicación](https://panjiachen.github.io/vue-element-admin)
-
-## Donación
-
-Si este proyecto es de mucha ayuda para ti, puedes comprarle al autor un vaso de jugo :tropical_drink:
-
-![Donar](https://wpimg.wallstcn.com/bd273f0d-83a0-4ef2-92e1-9ac8ed3746b9.png)
-
-[dona por Paypal](https://www.paypal.me/panfree23)
-
-[Comprame un Café](https://www.buymeacoffee.com/Pan)
-
 ## Navegadores Soportados
 
 Navegadores modernos e Internet Explorer 10+.
